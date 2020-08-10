@@ -1,0 +1,5 @@
+python3 sprat_extraction.py example/ExtractionCase1/20180810_lhs6328_case1.yaml
+python3 sprat_extraction.py example/ExtractionCase2/20180810_lhs6328_case2.yaml
+python3 sprat_extraction.py example/ExtractionCase3/20180810_lhs6328_case3.yaml
+python3 sprat_extraction.py example/ExtractionCase4/20180810_lhs6328_case4.yaml
+python3 sprat_extraction.py example/ExtractionCase5/20180810_lhs6328_case5.yaml

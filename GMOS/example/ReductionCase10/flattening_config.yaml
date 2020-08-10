@@ -1,0 +1,29 @@
+folder_path: "."
+output_folder_path: "output"
+light_folder: ~
+flat_folder: ~
+arc_folder: ~
+bias_folder: ~
+arc_flat_folder: ~
+arc_bias_folder: ~
+light_extension: ["fits", "fit", "bz2", "gz"]
+flat_extension: ["fits", "fit", "bz2", "gz"]
+arc_extension: ["fits", "fit", "bz2", "gz"]
+bias_extension: ["fits", "fit", "bz2", "gz"]
+arc_flat_extension: ["fits", "fit", "bz2", "gz"]
+arc_bias_extension: ["fits", "fit", "bz2", "gz"]
+bias_master_filename: bias_master
+arc_bias_master_filename: arc_bias_master
+flat_row_size: 10
+flat_edge_size: 10
+flat_strip_size: 20
+force_recreate_bias: false
+save_bias: true
+save_bias_format: ["fits", "npy"]
+overwrite_bias_image: true
+save_flattened_image: true
+save_flattened_image_format: ["fits", "npy"]
+overwrite_flattened_image: true
+create_fig: true
+show_fig: false
+diagnostic_pdf: true

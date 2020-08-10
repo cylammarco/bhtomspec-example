@@ -1,0 +1,10 @@
+python3 gmos_reduction.py example/ReductionCase1/flattening_config.yaml
+python3 gmos_reduction.py example/ReductionCase2/flattening_config.yaml
+python3 gmos_reduction.py example/ReductionCase3/flattening_config.yaml
+python3 gmos_reduction.py example/ReductionCase4/flattening_config.yaml
+python3 gmos_reduction.py example/ReductionCase5/flattening_config.yaml
+python3 gmos_reduction.py example/ReductionCase6/flattening_config.yaml
+python3 gmos_reduction.py example/ReductionCase7/flattening_config.yaml
+python3 gmos_reduction.py example/ReductionCase8/flattening_config.yaml
+python3 gmos_reduction.py example/ReductionCase9/flattening_config.yaml
+python3 gmos_reduction.py example/ReductionCase10/flattening_config.yaml
